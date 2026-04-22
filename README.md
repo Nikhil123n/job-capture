@@ -178,17 +178,17 @@ tests/
 data/
 ```
 
-For a more detailed breakdown, see [PROJECT_STRUCTURE.md](PROJECT_STRUCTURE.md).
+For a more detailed breakdown, see [docs/PROJECT_STRUCTURE.md](docs/PROJECT_STRUCTURE.md).
 
 ## Contributing
 
 Contributions are welcome, especially for bug fixes, tests, documentation, and extraction reliability improvements that stay within the current product scope.
 
-Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
+Read [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) before opening a pull request.
 
 ## Security
 
-If you discover a security issue, please follow [SECURITY.md](SECURITY.md) instead of opening a public bug report.
+If you discover a security issue, please follow [docs/SECURITY.md](docs/SECURITY.md) instead of opening a public bug report.
 
 ## License
 

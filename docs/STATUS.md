@@ -34,6 +34,6 @@ The repository has been verified with:
 
 ## Maintenance guidance
 
-- Treat `SPEC.md` and `DECISIONS.md` as the product guardrails.
+- Treat `docs/SPEC.md` and `docs/DECISIONS.md` as the product guardrails.
 - Keep the scope local-first and Excel-first unless maintainers intentionally expand it.
 - Prefer bug fixes, reliability improvements, tests, and documentation over feature growth.

@@ -89,7 +89,7 @@ Status: done
 - [x] Add friendly error states and clearer UI messages
 - [x] Tighten malformed response handling
 - [x] Simplify fragile code paths where needed
-- [x] Final acceptance check against `SPEC.md`
+- [x] Final acceptance check against `docs/SPEC.md`
 
 ## Repository publication
 

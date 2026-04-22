@@ -69,17 +69,19 @@ job-capture/
     extraction/
     storage/
   AGENTS.md
-  CHANGELOG.md
-  CODE_OF_CONDUCT.md
-  CONTRIBUTING.md
-  DECISIONS.md
+  docs/
+    CHANGELOG.md
+    CODE_OF_CONDUCT.md
+    CONTRIBUTING.md
+    DECISIONS.md
+    PROJECT_STRUCTURE.md
+    SECURITY.md
+    SPEC.md
+    STATUS.md
+    TASKS.md
+    archive/
   LICENSE
-  PROJECT_STRUCTURE.md
   README.md
-  SECURITY.md
-  SPEC.md
-  STATUS.md
-  TASKS.md
 ```
 
 ## Boundary summary
@@ -168,7 +170,7 @@ data/jobs.xlsx
 Rules:
 
 - the workbook is created automatically if it does not exist
-- the header order matches the locked schema in `SPEC.md`
+- the header order matches the locked schema in `docs/SPEC.md`
 - blank spreadsheet values are normalized as empty strings, not `null`
 - duplicate Job URL protection is enforced before writes
 

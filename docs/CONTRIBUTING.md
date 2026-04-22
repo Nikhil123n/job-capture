@@ -4,7 +4,7 @@ Thanks for your interest in Job Capture.
 
 ## Before you start
 
-- Read [README.md](README.md), [SPEC.md](SPEC.md), and [DECISIONS.md](DECISIONS.md).
+- Read [README.md](../README.md), [SPEC.md](SPEC.md), and [DECISIONS.md](DECISIONS.md).
 - Keep the project local-first, Excel-first, and intentionally small.
 - Avoid expanding product scope without prior discussion.
 
@@ -49,4 +49,4 @@ npm run build
 - include tests when practical
 - update documentation when behavior or setup changes
 
-See [.github/pull_request_template.md](.github/pull_request_template.md) for the default checklist.
+See [../.github/pull_request_template.md](../.github/pull_request_template.md) for the default checklist.

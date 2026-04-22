@@ -11,11 +11,11 @@ Job Capture is already implemented as a narrow v1. Contributions should preserve
 Before making changes, read:
 
 1. `README.md`
-2. `SPEC.md`
-3. `DECISIONS.md`
-4. `PROJECT_STRUCTURE.md`
-5. `TASKS.md`
-6. `STATUS.md`
+2. `docs/SPEC.md`
+3. `docs/DECISIONS.md`
+4. `docs/PROJECT_STRUCTURE.md`
+5. `docs/TASKS.md`
+6. `docs/STATUS.md`
 
 ## Operating rules
 
@@ -67,8 +67,8 @@ For each bug:
 
 If documents disagree, follow this order:
 
-1. `SPEC.md`
-2. `DECISIONS.md`
-3. `PROJECT_STRUCTURE.md`
+1. `docs/SPEC.md`
+2. `docs/DECISIONS.md`
+3. `docs/PROJECT_STRUCTURE.md`
 4. `README.md`
 5. local implementation convenience
