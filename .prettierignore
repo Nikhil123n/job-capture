@@ -1,0 +1,6 @@
+.next
+coverage
+data/jobs.xlsx
+node_modules
+playwright-report
+test-results

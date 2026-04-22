@@ -1,0 +1,30 @@
+name: Feature request
+description: Suggest a scoped improvement that fits the product direction.
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Job Capture intentionally stays small. Please explain why the request fits the current local-first and Excel-first product direction.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem to solve
+      description: What user problem are you trying to solve?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope check
+      description: Explain why this does not turn the project into a broader recruiting platform or require a different storage model.
+    validations:
+      required: true

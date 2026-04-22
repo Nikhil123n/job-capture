@@ -1,0 +1,40 @@
+# dependencies
+/node_modules/
+
+# next.js
+/.next/
+/out/
+
+# build and coverage
+/build/
+/coverage/
+/.nyc_output/
+
+# playwright artifacts
+/playwright-report/
+/test-results/
+
+# local data
+/data/jobs.xlsx
+
+# environment files
+.env*
+!.env.example
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+*.log
+
+# system files
+.DS_Store
+Thumbs.db
+
+# local deployment and cache files
+.vercel/
+.cache/
+
+# generated types
+*.tsbuildinfo
